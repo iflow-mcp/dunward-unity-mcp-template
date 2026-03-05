@@ -1,0 +1,1 @@
+{"serverConfig": "{\"mcpServers\":{\"unity-mcp\":{\"command\":\"npx\",\"args\":[\"-y\",\"@iflow-mcp/dunward-unity-mcp-server\"],\"env\":{\"NODE_OPTIONS\":\"--experimental-modules\"},\"values\":{}}}}"}
